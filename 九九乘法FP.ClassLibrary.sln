@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "九九乘法FP.ClassLibrary", "九九乘法FP.ClassLibrary\九九乘法FP.ClassLibrary.csproj", "{94187053-3869-43FA-BDF3-803CD672550E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94187053-3869-43FA-BDF3-803CD672550E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94187053-3869-43FA-BDF3-803CD672550E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94187053-3869-43FA-BDF3-803CD672550E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94187053-3869-43FA-BDF3-803CD672550E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ABAB864-B66B-4CAD-8A9D-BB694242F4C6}
+	EndGlobalSection
+EndGlobal
